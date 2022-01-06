@@ -52,8 +52,6 @@ Leave Requests
 
 ### Student's Application
 
-<!-- YT VIDEO GOES HERE -->
-
 Login (Before requesting for OTP)
 
 ![Login (Before requesting for OTP)](./images/student-login-otp-send.png)
